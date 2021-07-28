@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Ksenia Parakhina](https://up.htmlacademy.ru/ecmascript/15/user/287853).
-* Наставник: [Даниил Царёв](https://up.htmlacademy.ru/ecmascript/15/user/945835).
+* Наставник: [Даниил Царёв](https://htmlacademy.ru/profile/id945835).
 
 ---
 
